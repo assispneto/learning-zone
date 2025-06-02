@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+C:\Users\assis\OneDrive\Documentos\Code\java\javaPOO-tec_de_programacao\.metadata\.plugins\org.eclipse.jdt.core
+23967043.index
+1896301004.index
+4016297071.index
+2668175584.index
+1986692565.index
+1865797976.index
+100692314.index
+2556749049.index
+854433751.index
+2259405804.index

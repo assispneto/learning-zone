@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;lista2_implementacao_de_metodos.lista2&apos; to &apos;Utilidades&apos;&#x0D;&#x0A;- Original project: &apos;lista2_implementacao_de_metodos&apos;&#x0D;&#x0A;- Original element: &apos;lista2_implementacao_de_metodos.lista2&apos;&#x0D;&#x0A;- Renamed element: &apos;lista2_implementacao_de_metodos.Utilidades&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;lista2&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;lista2_implementacao_de_metodos{lista2.java[lista2" matchStrategy="1" name="Utilidades" qualified="false" references="true" similarDeclarations="false" stamp="1695646472843" textual="false" version="1.0"/>
+</session>
